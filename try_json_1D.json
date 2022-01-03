@@ -1,1 +1,107 @@
-{"2022-04-01": {"CUPO": 180, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-02": {"CUPO": 485, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-03": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-04": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-05": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-06": {"CUPO": 0, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 41.0, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-07": {"CUPO": 0, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 41.0, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-08": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-09": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-10": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-11": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-12": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-13": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-14": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}, "2022-04-15": {"CUPO": 500, "CONCEPTO": "1 D\u00cdA ADULTO", "PRECIO": 38.9992, "PRECIO INICIAL": 41.0, "COD PRODUCTO": "1OA"}}
+{
+    "2022-04-01": {
+        "CUPO": 180,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-02": {
+        "CUPO": 485,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-03": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-04": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-05": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-06": {
+        "CUPO": 0,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 41.0,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-07": {
+        "CUPO": 0,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 41.0,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-08": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-09": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-10": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-11": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-12": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-13": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-14": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    },
+    "2022-04-15": {
+        "CUPO": 500,
+        "CONCEPTO": "1 D\u00cdA ADULTO",
+        "PRECIO": 38.9992,
+        "PRECIO INICIAL": 41.0,
+        "COD PRODUCTO": "1OA"
+    }
+}
