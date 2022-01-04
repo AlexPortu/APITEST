@@ -87,9 +87,10 @@ def crear_json(rango, diccionario, dias):
     z = formated_dic5['Products'][next((i for i, item in enumerate(formated_dic5['Products']) if item['ProductCode'] == f'{dias}OA'), None)]['Concepts'][0]['Details'][0]['Price']
     m = formated_dic5['Products'][next((i for i, item in enumerate(formated_dic5['Products']) if item['ProductCode'] == f'{dias}OA'), None)]['Concepts'][0]['Details'][0]['OriginalPrice']
     n = formated_dic5['Products'][next((i for i, item in enumerate(formated_dic5['Products']) if item['ProductCode'] == f'{dias}OA'), None)]['ProductCode']
-
+    y1 = y.replace('Í', 'I')
+    y2 = ''.join(y1)
     dic25.update({'CUPO':x})
-    dic25.update({'CONCEPTO': y})
+    dic25.update({'CONCEPTO': y2})
     dic25.update({'PRECIO': z})
     dic25.update({'PRECIO INICIAL': m})
     dic25.update({'COD PRODUCTO': n})
@@ -101,7 +102,7 @@ def crear_json(rango, diccionario, dias):
 
   print(diccionario)
   with open(f'try_json_{dias}D.json', 'w', encoding='utf-8') as f:
-    json.dump(diccionario, f)
+    json.dump(diccionario, f, indent=4)
 
 crear_json(rango=rango, diccionario=dic_1D, dias=1)
 crear_json(rango=rango-1, diccionario=dic_2D, dias=2)
