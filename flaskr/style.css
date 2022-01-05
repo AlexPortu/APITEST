@@ -21,7 +21,7 @@ html{
 
 .calendar{
     width: 60rem;
-    height: 68rem;
+    height: 60rem;
     background-color: #222227;
     box-shadow: 0 .5rem 3rem rgba(0,0,0,.4);
 }
@@ -80,19 +80,28 @@ html{
     padding: 0.2rem;
 }
 
-.days div{
-    font-size: 1.4rem;
+.days div:not(.price){
+    font-size: 1.5rem;
     margin: 0.3rem;
     width: calc(55.2rem/7);
-    height: 7.9rem;
+    height: 6.5rem;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: flex-end;
     text-shadow: 0 0.3rem 0.5 rgba(0,0,0,0.5);
     transition: background-color 0.2s;
 }
 
-.days div:hover:not(.today,.prev-date){
+.price{
+    font-size: 1.2rem;
+    margin: 0.2rem;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.days div:hover:not(.today,.prev-date, .price){
     background-color: #262626;
     border: .2rem solid #167e56;
     padding: 1rem;
