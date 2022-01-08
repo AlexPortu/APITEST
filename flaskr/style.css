@@ -21,8 +21,8 @@ html{
 
 .calendar{
     width: 60rem;
-    height: 60rem;
-    background-color: #eee  ;
+    height: 75rem;
+    background-color: rgb(255, 255, 255)  ;
     box-shadow: 0 .5rem 3rem rgba(0,0,0,.4);
 }
 
@@ -54,7 +54,7 @@ html{
 }
 
 .date{
-    color: #eee;
+    color: rgb(255, 255, 255);
     width: 20rem;
     font-weight: 1500;
 }
@@ -83,6 +83,7 @@ html{
     justify-content: center;
     align-items: center;
 }
+
 
 .days{
     width: 100%;
@@ -127,3 +128,12 @@ html{
 .today{
     background-color: #39affd;
 }
+img{
+    max-height: 20rem;
+    max-width: 20rem;
+    position: absolute;
+    right: 54rem;
+    bottom: 5rem;
+}
+
+    

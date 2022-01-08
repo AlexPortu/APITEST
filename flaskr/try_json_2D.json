@@ -1,23 +1,4 @@
-const date = new Date();
-
-
-const months = [
-    "Enero",
-    "Febrero",
-    "Marzo",
-    "Abril",
-    "Mayo",
-    "Junio",
-    "Julio",
-    "Agosto",
-    "Septiembre",
-    "Octubre",
-    "Noviembre",
-    "Diciembre",
-];
-
-document.querySelector(".date h1").innerHTML = months[date.getMonth()];
-var fs = {
+{
     "2022-04-01": {
         "CUPO": 180,
         "CONCEPTO": "2 DIAS ADULTO",
@@ -117,13 +98,3 @@ var fs = {
         "COD PRODUCTO": "2OA"
     }
 }
-"use strict";
-
-fetch("./try_json_2D.json")
-    .then(function(resp) {
-        return resp.json();
-    })
-    .then(function(data) {
-        console.log(data);
-    });
-document.getElementById("12345").innerHTML = alert(data["2022-04-01"]["CONCEPTO"]);
