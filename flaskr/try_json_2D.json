@@ -1,96 +1,145 @@
 {
-    "2022-04-01": {
-        "CUPO": 180,
-        "CONCEPTO": "2 DIAS ADULTO",
-        "PRECIO": 73.81312,
-        "PRECIO INICIAL": 77.6,
-        "COD PRODUCTO": "2OA"
-    },
-    "2022-04-02": {
-        "CUPO": 485,
-        "CONCEPTO": "2 DIAS ADULTO",
-        "PRECIO": 73.81312,
-        "PRECIO INICIAL": 77.6,
-        "COD PRODUCTO": "2OA"
-    },
-    "2022-04-03": {
+    "2022-01-09": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,
         "PRECIO INICIAL": 77.6,
         "COD PRODUCTO": "2OA"
     },
-    "2022-04-04": {
+    "2022-01-10": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,
         "PRECIO INICIAL": 77.6,
         "COD PRODUCTO": "2OA"
     },
-    "2022-04-05": {
-        "CUPO": 0,
-        "CONCEPTO": "2 DIAS ADULTO",
-        "PRECIO": 77.6,
-        "PRECIO INICIAL": 77.6,
-        "COD PRODUCTO": "2OA"
-    },
-    "2022-04-06": {
-        "CUPO": 0,
-        "CONCEPTO": "2 DIAS ADULTO",
-        "PRECIO": 77.6,
-        "PRECIO INICIAL": 77.6,
-        "COD PRODUCTO": "2OA"
-    },
-    "2022-04-07": {
-        "CUPO": 0,
-        "CONCEPTO": "2 DIAS ADULTO",
-        "PRECIO": 77.6,
-        "PRECIO INICIAL": 77.6,
-        "COD PRODUCTO": "2OA"
-    },
-    "2022-04-08": {
+    "2022-01-11": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,
         "PRECIO INICIAL": 77.6,
         "COD PRODUCTO": "2OA"
     },
-    "2022-04-09": {
+    "2022-01-12": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,
         "PRECIO INICIAL": 77.6,
         "COD PRODUCTO": "2OA"
     },
-    "2022-04-10": {
+    "2022-01-13": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,
         "PRECIO INICIAL": 77.6,
         "COD PRODUCTO": "2OA"
     },
-    "2022-04-11": {
+    "2022-01-14": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,
         "PRECIO INICIAL": 77.6,
         "COD PRODUCTO": "2OA"
     },
-    "2022-04-12": {
+    "2022-01-15": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,
         "PRECIO INICIAL": 77.6,
         "COD PRODUCTO": "2OA"
     },
-    "2022-04-13": {
+    "2022-01-16": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,
         "PRECIO INICIAL": 77.6,
         "COD PRODUCTO": "2OA"
     },
-    "2022-04-14": {
+    "2022-01-17": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-18": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-19": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-20": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-21": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-22": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-23": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-24": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-25": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-26": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-27": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-28": {
+        "CUPO": 500,
+        "CONCEPTO": "2 DIAS ADULTO",
+        "PRECIO": 73.81312,
+        "PRECIO INICIAL": 77.6,
+        "COD PRODUCTO": "2OA"
+    },
+    "2022-01-29": {
         "CUPO": 500,
         "CONCEPTO": "2 DIAS ADULTO",
         "PRECIO": 73.81312,

@@ -34,10 +34,10 @@ IDSesion = re.search(r'Identifier":(.\d+)', string1).group(1)
 # POST NUMBER 2
 
 url2 = "http://pruebasapi.grandvalira.com/api/WebDataSearch/Search"
-rango = 15
+rango = 22
 def crear_json(rango, diccionario, dias):
   for i in range(rango):
-    now = date.fromisoformat('2022-04-01')
+    now = date.fromisoformat('2022-01-09')
     tomorrow = now + timedelta(days=i)
     tomorrow2 = now + timedelta(days=i+(dias-1))
     next_date = str(tomorrow)
@@ -101,7 +101,7 @@ def crear_json(rango, diccionario, dias):
     dic25 = {}
 
   print(diccionario)
-  with open(f'try_json_{dias}D.json', 'w', encoding='utf-8') as f:
+  with open(f'flaskr\\try_json_{dias}D.json', 'w', encoding='utf-8') as f:
     json.dump(diccionario, f, indent=4)
 
 crear_json(rango=rango, diccionario=dic_1D, dias=1)

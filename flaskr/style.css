@@ -131,9 +131,7 @@ html{
 img{
     max-height: 20rem;
     max-width: 20rem;
-    position: absolute;
-    right: 54rem;
-    bottom: 5rem;
+    float: right;
 }
 
     

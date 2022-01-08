@@ -19,22 +19,3 @@ while(True):
     for i in range(0,3):
         pyautogui.press("shift")
     print("Movement made at {}".format(datetime.now().time()))
-
-const date = new Date();
-
-const month = [
-    'Enero',
-    'Febrero',
-    'Marzo',
-    'Abil',
-    'Mayo',
-    'Junio',
-    'Julio',
-    'Agosto',
-    'Septiembre',
-    'Octubre',
-    'Noviembre',
-    'Diciembre',
-]
-
-document.querySelector('.date h1').innerHTML = month[4]
