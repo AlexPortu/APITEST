@@ -6,7 +6,7 @@
 }
 
 html{
-    font-size: 70%;
+    font-size: 65%;
 }
 
 .container{
@@ -21,7 +21,7 @@ html{
 
 .calendar{
     width: 60rem;
-    height: 75rem;
+    height: 70rem;
     background-color: rgb(255, 255, 255)  ;
     box-shadow: 0 .5rem 3rem rgba(0,0,0,.4);
 }
@@ -112,7 +112,7 @@ html{
     height: 4rem;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .days div:hover:not(.today,.prev-date, .price){
